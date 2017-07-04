@@ -1,4 +1,4 @@
-1[alt](https://raw.githubusercontent.com/lesp/LXF228-Back-To-School/master/Raspberry%20Pi/lxf.gif)
+![alt](https://raw.githubusercontent.com/lesp/LXF228-Back-To-School/master/Raspberry%20Pi/lxf.gif)
 # Linux Format Issue 228 - Back to School
 
 In this issue we take a look at three popular devices that can help any learner to take their first steps with coding and making.
