@@ -4,7 +4,7 @@
 In this issue we take a look at three popular devices that can help any learner to take their first steps with coding and making.
 
 ## Arduino
-1[alt](https://raw.githubusercontent.com/lesp/LXF228-Back-To-School/master/Arduino/LCD-Tape-Measure_bb.png)
+![alt](https://raw.githubusercontent.com/lesp/LXF228-Back-To-School/master/Arduino/LCD-Tape-Measure_bb.png)
 Learn how to make your own ultrasonic tape measure using only a few cheap components.
  
 ## Raspberry Pi
